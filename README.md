@@ -10,3 +10,11 @@
 <li>Incorect positions: right in the the wrong postion</li>
 
 <h3>Your goal is to reach Correct Positiions = 4 before you run out of tries.</h3>
+
+<h2>How To Play</h2>
+<ol>Run the script;the game prints the valid colors and the number of tries.</ol>
+<ol>Type your guess as space-separated letters(ex: R G B Y).</ol>
+<ol>Read the feednack line to refine your next guess.</ol>
+<ol>Win by matching all 4 positions before tries run out.</ol>
+
+<h2>The secret code can contain repeated colors (ex: R R B G)</h2>
