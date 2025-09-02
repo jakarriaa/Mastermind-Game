@@ -20,4 +20,6 @@
 <h2>The secret code can contain repeated colors (ex: R R B G)</h2>
 
 <h2>Game Play</h2>
-![Untitled design](https://github.com/user-attachments/assets/35142853-c4bc-474d-85a7-6be9436efd45)
+
+
+![Untitled design](https://github.com/user-attachments/assets/2f918283-13a9-4bcd-98d3-95900636f7cb)
