@@ -19,3 +19,4 @@
 
 <h2>The secret code can contain repeated colors (ex: R R B G)</h2>
 
+![Untitled design](https://github.com/user-attachments/assets/98a8a8a6-350f-47f2-9053-d7be740f166d)
